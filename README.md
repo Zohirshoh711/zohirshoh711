@@ -14,7 +14,7 @@
 - 🔭 I’m currently learning at Algoritm LC
 - 🌱 I’m currently learning VueJs, JavaScript
 - 💬 Ask me about nothing :)
-- 📫 How to reach me: [@azamjonbro](https://t.me/rxmnv_711) on telegram
+- 📫 How to reach me: [@Zohirshox](https://t.me/rxmnv_711) on telegram
 - 😄 Pronouns: Zohirshoh,
 - ⚡️ Fun fact: :-)
 
